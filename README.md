@@ -12,5 +12,7 @@ Therefore, our study can be playing an important role for the detecting Parkinso
 
 CONCLUSION  
 
+![image](https://user-images.githubusercontent.com/120731725/208123347-35a5fe8c-4890-4f67-ab97-e0887317d54b.png)
+
 In this project, we have implemented a deep neural network and machine learning models, to predict the presence of Parkinson’s disease. The 3 machine learning models SVM, RANDOM FOREST CLASSIFIER and XGBOOSTER have achieved 100% accuracy, compared to other existing models. Although we have used a dataset of 197 instances, the accuracy of our approach can be further improved by implementing it on a larger dataset, having a greater number of instances of each class as well as on a combined database of patients’ voice data and other patient features. 
 
